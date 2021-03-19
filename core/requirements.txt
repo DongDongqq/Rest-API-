@@ -22,7 +22,7 @@ django-excel-response2==2.0.8
 django-filter==2.0.0
 django-relativedelta==1.0.4
 django-six==1.0.4
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 docutils==0.12
 ebaysdk==2.1.5
 feedparser==5.2.1
