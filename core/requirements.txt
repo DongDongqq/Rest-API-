@@ -65,7 +65,7 @@ PyPDF2==1.26.0
 python-dateutil==2.7.5
 python-editor==1.0.4
 pytz==2016.7
-pywin32==224
+pywin32==301
 query-string==2018.11.20
 queuelib==1.5.0
 request==2018.11.20
